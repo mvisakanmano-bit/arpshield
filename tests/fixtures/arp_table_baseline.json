@@ -1,0 +1,29 @@
+{
+  "192.168.1.1": {
+    "ip": "192.168.1.1",
+    "mac": "aa:bb:cc:dd:ee:01",
+    "interface": "eth0",
+    "first_seen": "2026-05-30T00:00:00Z",
+    "last_seen": "2026-05-30T00:00:00Z",
+    "status": "VERIFIED",
+    "label": "Gateway"
+  },
+  "192.168.1.10": {
+    "ip": "192.168.1.10",
+    "mac": "aa:bb:cc:dd:ee:02",
+    "interface": "eth0",
+    "first_seen": "2026-05-30T00:00:00Z",
+    "last_seen": "2026-05-30T00:00:00Z",
+    "status": "VERIFIED",
+    "label": ""
+  },
+  "192.168.1.20": {
+    "ip": "192.168.1.20",
+    "mac": "aa:bb:cc:dd:ee:03",
+    "interface": "eth0",
+    "first_seen": "2026-05-30T00:00:00Z",
+    "last_seen": "2026-05-30T00:00:00Z",
+    "status": "VERIFIED",
+    "label": ""
+  }
+}
